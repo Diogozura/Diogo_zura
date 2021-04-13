@@ -3,10 +3,10 @@
     font-size:1em;
 }
 body{
-    background:rgb(74, 206, 85);
+    background:rgb(112, 114, 235);
 }
 main{
-    background-color: azure;
+    background-color: rgb(186, 247, 247);
     width: 500px;
     margin: auto;
     padding: 10px;
