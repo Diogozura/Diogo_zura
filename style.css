@@ -10,5 +10,5 @@ main{
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 50px 5px 5px rgba(0, 0, 0, 0.678);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.678);
 }
