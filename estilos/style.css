@@ -12,3 +12,7 @@ main{
     padding: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.678);
 }
+img{
+    margin: right;
+    width: 100px;
+}
