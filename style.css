@@ -6,10 +6,11 @@ body{
     font-size: 18px;
 }
 main{
-    background-color: rgb(201, 146, 252);
+    background-color: whitesmoke;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #306266c9;
-    width: 700px;
+    min-width: 100px;
+    max-width: 700px;
     padding: 10px;
     margin: auto;    
 }   
@@ -30,4 +31,5 @@ p{
     text-align: justify;
     text-align: center;
 }
+
 
