@@ -1,9 +1,9 @@
 @charset "UTF-8";
-
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
 body{
-    background-color: #5c5ccfd2;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18px;
+    background-color: #5858a8d2;
 }
 main{
     background-color: whitesmoke;
@@ -16,10 +16,12 @@ main{
 }   
 
 h1{
+    font-size: 2em;
     text-align: center;
 }
 
 h2{
+    font-size: 1.5em;
     text-align: center;
 }
 
