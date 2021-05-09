@@ -6,11 +6,11 @@
 
 body {
     margin-top: 20px;
-    background-color: #B2BABB;
+    background-color: rgb(161, 139, 185);
 }
 
 main {
-    background-color: #f9f9f9d3;
+    background-color: #ddd;
     border-radius: 10px;
     box-shadow: 5px 5px 15px #306266c9;
     min-width: 100px;
@@ -53,4 +53,8 @@ footer {
     display: flex;
     flex-grow: 1;
     padding: 10px;
+}
+
+a{
+    text-decoration: none;
 }
