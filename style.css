@@ -6,11 +6,11 @@
 
 body {
     margin-top: 20px;
-    background-color: rgb(161, 139, 185);
+    background-image: url(img/tile_background\ \(1\).png);
 }
 
 main {
-    background-color: #ddd;
+    background-color: rgba(255, 255, 255, 0.76);
     border-radius: 10px;
     box-shadow: 5px 5px 15px #306266c9;
     min-width: 100px;
@@ -20,35 +20,36 @@ main {
 }
 
 .imgs {
+    position: relative;
+    padding-left: 10px;
     margin-left: auto;
     margin-right: auto;
     width: 18em;
 }
 
 h1 {
-    font-size: 1.4em;
+    font-size: 1.5em;
     text-align: center;
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     text-align: center;
 }
 
 
 p {
-    font-size: 1em;
+    font-size: 1.2em;
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
     max-width: 40em;
 }
 footer {
-    background-color: #747474;
-    max-width: 700px;
-    min-width: 100px;
+    background-color: #2e2e2eb2;
+    position: inherit;
     height: 80px;
-    border-radius: 10px;
+    border-width: 10px;
     margin: auto;
     display: flex;
     flex-grow: 1;
