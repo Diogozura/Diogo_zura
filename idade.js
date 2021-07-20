@@ -19,7 +19,7 @@ function idade(ano_aniversario, mes_aniversario, dia_aniversario) {
 
 }
 
-var minhaIdade = parseInt(idade(2003, 11, 09))
+var minhaIdade = parseInt(idade(2003, 12, 31))
 var bota = document.querySelector('#bio')
 // bota.innerHTML = minhaIdade  
 bota.innerHTML = (`Hi, I’m Diogo Zura, I’m ${minhaIdade} years old, I really like technology and I’m studying to become a front end developer, I’ve already made some websites for my school.`)
