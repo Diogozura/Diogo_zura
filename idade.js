@@ -23,3 +23,12 @@ var minhaIdade = parseInt(idade(2003, 11, 09))
 var bota = document.querySelector('#bio')
 // bota.innerHTML = minhaIdade  
 bota.innerHTML = (`Hi, I’m Diogo Zura, I’m ${minhaIdade} years old, I really like technology and I’m studying to become a front end developer, I’ve already made some websites for my school.`)
+
+var t = new Date,
+ano_atual = d.getFullYear(),
+mes_atual = d.getMonth() + 1,
+dia_atual = d.getDate(),
+
+var time = document.querySelector('#time')
+
+time.innerHTML = (`dia ${dia_atual}`)
